@@ -1,0 +1,1 @@
+ positionB.second - positionA.second == 1 &&
