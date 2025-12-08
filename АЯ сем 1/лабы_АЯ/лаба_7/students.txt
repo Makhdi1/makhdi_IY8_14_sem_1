@@ -1,0 +1,7 @@
+[CS-101]
+Ivan Ivanov;2;Math:4;Physics:5;Programming:5
+Petr Petrov;2;Math:3;Physics:4;Programming:4
+
+[IT-202]
+Anna Sidorova;3;Math:5;Physics:5;Programming:5
+
