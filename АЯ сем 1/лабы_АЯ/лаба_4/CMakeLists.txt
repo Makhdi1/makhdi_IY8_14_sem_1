@@ -1,4 +1,0 @@
-cmake_minimum_required(VERSION 3.10)
-project(Lab05)
-
-add_executable(main main.cpp mean.cpp minMax.cpp argmax.cpp)
