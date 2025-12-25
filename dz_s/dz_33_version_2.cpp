@@ -4,7 +4,6 @@
 #include <cmath>
 #include <vector>
 #include <cctype>
-#include <map>
 
 using namespace std;
 
@@ -23,7 +22,7 @@ bool check_chars(string expr) {
         if (!isdigit(c) && !isalpha(c) &&
             c != '+' && c != '-' && c != '*' &&
             c != '/' && c != '(' && c != ')' &&
-            c != '.' && c != ' ') {
+            c != '.' && c != ' ' && c != '^') {
             return false;
         }
     }
